@@ -1,0 +1,335 @@
+@media (max-width: 1621px) {
+.blue-content_bot {
+    margin-left: 0;
+}
+
+
+}
+
+@media (max-width: 1430px) {
+    .blue_btn {
+        bottom: -20%;
+        right: 60%;
+    }
+    .arrow_big,
+    .arrow_small {
+        display: none;
+    }
+    
+    .header-main-img img{
+        max-width: 70%;
+        bottom: 90px;
+    }
+    .first-main-txt p {
+        font-size: 50px;
+    }
+    .first-main-txt {
+        width: 80%;
+    }
+    .first-main-txt h2 {
+        font-size: 18px;
+        
+    }
+    .main_last-txt {
+        margin-top: 50px;
+    }
+}
+@media (max-width: 1260px) {
+.blue-top {
+    max-width: 490px;
+    margin-right: 53px;
+    margin-top: 120px;
+}
+.blue-top h2 {
+    font-size: 14px;
+    line-height: 20px;
+}
+.px-block1 {
+display: flex;
+gap: 50px;
+margin-bottom: 20px;
+}
+.px-block2 {
+    display: flex;
+    gap: 50px;
+    }
+.sponsors {
+    display: block;
+}
+footer .container {
+    margin: 0;
+}
+}
+@media (max-width: 1036px)  {
+    .img_card {
+        min-width: 250px;
+    }
+    .startright-par p{
+        width: 400px;
+        
+    }
+    .nav {
+       display: flex;
+       justify-content: center;
+    }
+    .header_nav-inner {
+        display: block;
+    }
+    .header_logo {
+        display: flex;
+        justify-content: center;
+       
+    }
+    .burger_menu {
+        position: absolute;
+        right: -20%;
+        top: -40%;
+
+    }
+    .nav a {
+       
+        margin-right: 5px;
+    }
+    
+}
+@media (max-width: 960px) {
+    .header-main-img {
+        display: none;
+    }
+   .header-main-img img {
+    display: none;
+   }
+    .blog-card {
+    display: block;
+    
+   }
+.header_inner {
+    display: block;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.header-main_btn {
+   
+    margin: 0 auto;
+}
+.people_content {
+    text-align: center;
+}
+.first-card {
+    margin: 0 auto;
+}
+.startright-par {
+    text-align: center;
+}
+.statistic {
+    display: block;
+    text-align: center;
+}
+.change {
+    font-size: 45px;
+}
+.par {
+    margin: 0 auto;
+}
+.paragraph {
+    text-align: center;
+    font-size: 30px;
+}
+.img_card {
+
+width: 150px;
+
+}
+   .blog-card img {
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+   }
+    .statistic-box  {
+        
+    }
+    .statistic-box {
+        display: inline-block;
+        margin-right: 0px;
+    }
+ .form {
+    flex-direction: column;
+ }
+.form button {
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+}
+
+
+
+
+@media (max-width: 812px) {
+    footer {
+        min-height: 900px;
+    }
+    .form-inner {
+        display: block;
+       margin-top: 50px;
+       text-align: center;
+    }
+    .footer-txt {
+        
+    }
+    .footer-txt-inner {
+       justify-content: center;
+       margin-top: 50px;
+       margin-bottom: 50px;
+    }
+    .footer-dec-txt {
+        display: none;
+    }
+.start-inner {
+
+    display: block;
+    }
+
+.startleft {
+
+    margin-bottom: 50px;
+    width: 100%;
+
+    }
+
+.center {
+    display: block;
+    margin-left: 0;
+    }
+.center-card {
+    margin-top: 40px;
+}
+.bottom-card {
+    display: block;
+}
+.img_card {
+    margin-bottom: 40px;
+}
+.top-card {
+    display: block;
+    margin-bottom: 40px;
+}
+.blue-paragraph {
+    margin-left: 0;
+    margin-right: 40px;
+}
+.blue-box {
+    height: 100%;
+}
+.blue_btn {
+    right: 40%;
+    bottom: -10%;
+}
+.blue-content_top {
+    
+    display: block;
+}
+.blue-card {
+    margin-top: 40px;
+}
+.blue-content_bot {
+    display: block;
+    margin-bottom: 200px;
+}
+}
+    
+@media (max-width: 640px) {
+    .images .container,.startup .container, .blue-box .container,.getstarted .container,.shop .container,.blog .container,header .container,.slider-box .container,footer .container {
+        margin: 0;
+        width: 100%;
+    }
+    .img_card {
+        
+    }
+    .burger_menu {
+        position: absolute;
+        right: 0%;
+        top: -80%;
+
+    }
+    .header-main-text {
+        margin-left: 20%;
+    }
+    .first-main-txt p {
+        font-size: 45px;
+        line-height: 50px;
+    }
+    .getst-cards{
+       display: block;
+    }
+    .getst-card {
+        margin-bottom: 50px;
+    }
+    .img-bg {
+        width: 350px;
+    }
+    .first-img_card {
+        width: 350px;
+        
+    }
+    .shop-cards {
+        display: block;
+    }
+    .shop-card {
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+    .people_content p {
+        margin-top: 23px;
+        margin-bottom: 15px;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 20px;
+        
+}
+
+@media (max-width: 585px) {
+   
+    .front-box_content button:hover {
+        transform: scale(0.8);
+    }
+    .startright-par p {
+        max-width: 300px;
+        font-size: 30px;
+    }
+    .px-block1 {
+        gap: 5px;
+    }
+    .px-block2 {
+        gap: 5px;
+        
+}
+.blue-paragraph {
+   
+    margin-right: 10px;
+}
+.get-text h4 {
+    max-width: 450px;
+    margin-top: 164px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    
+}
+.blog-inner {
+    display: block;
+    margin-bottom: 20px;
+}
+.blog-btn_title button {
+    
+}
+.sponsors img{
+width: 150px;
+}
+
+}
+.header-main-text {
+    margin-left: 10%;
+}
+}
